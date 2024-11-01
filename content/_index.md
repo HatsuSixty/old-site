@@ -5,6 +5,12 @@ date: 2023-12-27T12:00:00-03:00
 
 # Home Page
 
+hi this is my old website pls access the new one at <https://hatsusixty.in>.
+
+---
+
+## old content:
+
 Hello people! This is my website. Here I plan to keep information that I find relevant and don't want to lose, as well as some pages about projects of mine.
 
 ## Social Media
