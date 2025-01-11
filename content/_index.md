@@ -5,7 +5,11 @@ date: 2023-12-27T12:00:00-03:00
 
 # Home Page
 
-hi this is my old website pls access the new one at <https://hatsusixty.in>.
+{{< rawhtml >}}
+<span style="font-size:3em;color:var(--rly-hard-to-ignore)">
+  <b>hi this is my old website pls access the new one at <https://hatsusixty.in>.</b>
+</span>
+{{< /rawhtml >}}
 
 ---
 
